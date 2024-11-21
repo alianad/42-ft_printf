@@ -1,3 +1,7 @@
+<p align="center">
+   <img width="200" src="https://github.com/user-attachments/assets/f4712f77-b4c7-4f8d-a0e5-d22bdfc9455f">
+</p>
+
 # 42-ft_printf
 Because `ft_putnbr()` and `ft_putstr()` aren’t enough.
 
